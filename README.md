@@ -1,9 +1,9 @@
-### Hi there, I am Sendya (青井蓝莓) 👋 <img align="right" src="https://img.shields.io/badge/Follow-Sendya-green?style=flat" alt="Badge" loading="lazy" />
+### Hi there, I am Chenyomi 👋 <img align="right" src="https://img.shields.io/badge/Follow-Sendya-green?style=flat" alt="Badge" loading="lazy" />
 
 ---
 
 - ⚙️ I’m active in Ant Design Vue.
-- 👋 Blog site [sendya.me](https://sendya.me/)
+- 👋 Blog site [chenyomi](https://chenyomi.github.io/)
 - 👴🏻 Working working working...
 
 <br clear="both" />
